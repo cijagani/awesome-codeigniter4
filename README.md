@@ -26,17 +26,17 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 * [Community](#community)
 
 ## complex
-* [tattersoftware/codeigniter4-chat](https://github.com/tattersoftware/codeigniter4-chat) - Embedded chat widget for CodeIgniter 4.
-* [lonnieezell/codeigniter-forensics](https://github.com/lonnieezell/codeigniter-forensics) - A high-powered, customizable Profiler replacement for CodeIgniter.
+* [codeigniter4-chat](https://github.com/tattersoftware/codeigniter4-chat) - Embedded chat widget for CodeIgniter 4.
+* [codeigniter-forensics](https://github.com/lonnieezell/codeigniter-forensics) - A high-powered, customizable Profiler replacement for CodeIgniter.
 
 ## libraries
-* [tattersoftware/codeigniter4-alerts](https://github.com/tattersoftware/codeigniter4-alerts) - Lightweight user alerts for CodeIgniter 4.
+* [codeigniter4-alerts](https://github.com/tattersoftware/codeigniter4-alerts) - Lightweight user alerts for CodeIgniter 4.
 
 ## auth
-* [lonnieezell/myth-auth](https://github.com/lonnieezell/myth-auth) - One-stop Auth package for CodeIgniter 4.
+* [myth-auth](https://github.com/lonnieezell/myth-auth) - One-stop Auth package for CodeIgniter 4.
 
 ## crud
-* [agungsugiarto/codeigniter4-ajax-crud](https://github.com/agungsugiarto/codeigniter4-ajax-crud) - Simple Ajax Crud program with CodeIgniter4.
+* [codeigniter4-ajax-crud](https://github.com/agungsugiarto/codeigniter4-ajax-crud) - Simple Ajax Crud program with CodeIgniter4.
 
 ## cli
-* [lonnieezell/vulcan](https://github.com/lonnieezell/vulcan) - CLI tools for CodeIgniter 4.
+* [vulcan](https://github.com/lonnieezell/vulcan) - CLI tools for CodeIgniter 4.
