@@ -27,7 +27,6 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## complex
 * [codeigniter4-chat](https://github.com/tattersoftware/codeigniter4-chat) - Embedded chat widget for CodeIgniter 4.
-* [codeigniter-forensics](https://github.com/lonnieezell/codeigniter-forensics) - A high-powered, customizable Profiler replacement for CodeIgniter.
 
 ## libraries
 * [codeigniter4-alerts](https://github.com/tattersoftware/codeigniter4-alerts) - Lightweight user alerts for CodeIgniter 4.
