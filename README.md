@@ -7,5 +7,20 @@
 
 A list of awesome Codeigniter4-framework core, helpers, hooks, language, libraries, third party and other cool resources for CodeIgniter fire
 
-# Contributing
-Please see CONTRIBUTING for details.
+## Contributing
+Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
+
+## Table of contents
+* [Complex](#complex)
+* [CMS](#cms)
+* [Chat](#chat)
+* [Libraries](#libraries)
+* [Model](#model)
+* [Third Party](#third-party)
+* [CRUD](#crud)
+* [Templates](#templates)
+* [Web Services](#web-services)
+* [Realtime](#realtime)
+* [User Guide Translations](#user-guide-translations)
+* [Useful Websites](#useful-websites)
+* [Community](#community)
