@@ -5,7 +5,7 @@
 [![GitHub license](https://img.shields.io/badge/awesome-CI4-orange?style=flat)](https://github.com/truelineinfotech/awesome-codeigniter4)
 <br>
 
-A list of awesome Codeigniter4-framework core, helpers, hooks, language, libraries, third party and other cool resources for CodeIgniter fire
+A list of awesome Codeigniter4-framework core, helpers, auth, language, libraries, third party and other cool resources for CodeIgniter fire
 
 ## Contributing
 Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
@@ -13,7 +13,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 ## Table of contents
 * [Complex](#complex)
 * [CMS](#cms)
-* [Chat](#chat)
+* [Auth](#auth)
 * [Libraries](#libraries)
 * [Model](#model)
 * [Third Party](#third-party)
