@@ -1,6 +1,6 @@
 # awesome-codeigniter4
 [![GitHub forks](https://img.shields.io/github/forks/truelineinfotech/awesome-codeigniter4?style=flat&color=brightgreen)](https://github.com/truelineinfotech/awesome-codeigniter4/network)
-[![GitHub stars](https://img.shields.io/github/stars/truelineinfotech/awesome-codeigniter4?style=flat)](https://github.com/truelineinfotech/awesome-codeigniter4/stargazers)
+![GitHub stars](https://img.shields.io/github/stars/truelineinfotech/awesome-codeigniter4?style=flat)
 [![GitHub license](https://img.shields.io/github/license/truelineinfotech/awesome-codeigniter4?style=flat)](https://github.com/truelineinfotech/awesome-codeigniter4/blob/master/LICENSE)
 [![GitHub license](https://img.shields.io/badge/awesome-CI4-orange?style=flat)](https://github.com/truelineinfotech/awesome-codeigniter4)
 <br>
@@ -11,6 +11,7 @@ A list of awesome Codeigniter4-framework core, helpers, auth, language, librarie
 Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## Table of contents
+* [boilerplate](#boilerplate)
 * [Complex](#complex)
 * [CMS](#cms)
 * [Auth](#auth)
@@ -24,6 +25,9 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 * [User Guide Translations](#user-guide-translations)
 * [Useful Websites](#useful-websites)
 * [Community](#community)
+
+## Boilerplate
+* [boilerplate](https://github.com/agungsugiarto/boilerplate) - CodeIgniter 4 Application Starter - Boilderplate.
 
 ## complex
 * [codeigniter4-chat](https://github.com/tattersoftware/codeigniter4-chat) - Embedded chat widget for CodeIgniter 4.
