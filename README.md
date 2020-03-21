@@ -43,3 +43,4 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## cli
 * [vulcan](https://github.com/lonnieezell/vulcan) - CLI tools for CodeIgniter 4.
+* [CodeIgniter4_CLI-Create](https://github.com/monkenWu/CodeIgniter4_CLI-Create) - Cli-Create is based on CodeIgniter4. It will help you generate template files more quickly when developing projects with CodeIgniter4.
