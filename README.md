@@ -34,6 +34,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## libraries
 * [codeigniter4-alerts](https://github.com/tattersoftware/codeigniter4-alerts) - Lightweight user alerts for CodeIgniter 4.
+* [ci4-assets-generator](https://github.com/mjamilasfihani/codeigniter-4-assets-generator) - Generate a HTML template, including CSS, JS and META.
 
 ## auth
 * [myth-auth](https://github.com/lonnieezell/myth-auth) - One-stop Auth package for CodeIgniter 4.
